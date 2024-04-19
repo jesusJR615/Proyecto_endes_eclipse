@@ -21,6 +21,8 @@ public class Principal {
 			System.out.println("Es divisible por cinco ");
 		} else if (numero % 7 == 0) {
 			System.out.println("Es divisible por siete ");
+		}else if (numero % 10 == 0) {
+			System.out.println("Es divisible por 10 ");
 		}else {
 			System.out.println("No es divisible ni por siete ni por cinco ");
 		}

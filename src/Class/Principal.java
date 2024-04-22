@@ -26,5 +26,6 @@ public class Principal {
 		}else {
 			System.out.println("No es divisible ni por siete ni por cinco ");
 		}
+		System.out.println("Gracias por usar el programa");
 	}	
 }
